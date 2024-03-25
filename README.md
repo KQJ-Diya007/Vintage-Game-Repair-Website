@@ -1,2 +1,2 @@
 # Vintage-Game-Repair-Website
-For University Yr 1 SEM B 
+For University Year 1 SEM B 
